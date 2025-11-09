@@ -1,2 +1,4 @@
 # chaosfernandmore
 emergent structure from the interaction of stochastic sampling and transformations rules
+
+draft project: more of a personal reminder to come back and interface with these ideas a little more. When I first read about the Barnsley fern, I was struck with how similar it seemed to the biological systems I was investigating. You have this soup of noise, because it is really chemistry and chemistry is very noisy and messy, and yet you get such defined, beautiful forms like cells and organisms. How this is possible is a question I’m very interested in, and I think this analog of the chaotic fern might provide some answers. I want to extend this project to generating more structures, and think about an analog of "rules" is a biochemical sense. It would be nice if I didn't have to explicitly code them. 
